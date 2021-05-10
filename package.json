@@ -1,0 +1,17 @@
+{
+  "name": "ultimate-bbq-menu",
+  "version": "1.0.0",
+  "description": "ultimate BBQ menu",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "barrywaldron",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barrywaldron/ultimate-bbq-menu.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

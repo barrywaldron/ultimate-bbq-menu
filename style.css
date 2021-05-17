@@ -7,9 +7,9 @@ body {
   
 }
 ul {
-  
   list-style-type: none;
-  margin-left: 10px;
+  padding-left: 100px;
+ 
  }
 
 h1 {
@@ -29,4 +29,15 @@ li {
 a {
   font-size: 1.0rem;
   color: #000;
+}
+.menu-items {
+  position: relative;
+}
+.items {
+  position: absolute;
+}
+.price {
+  float: right;
+
+  width: 50%;
 }

@@ -31,14 +31,16 @@ a {
   color: #000;
 }
 .menu-items {
-  position: relative;
+ position: absolute;
+ padding-left: 50px;
+
 }
 .items {
-  position: absolute;
+  position: relative;
 }
 .price {
   float: right;
-  width: 50%;
-  
-  
 }
+
+  
+  
